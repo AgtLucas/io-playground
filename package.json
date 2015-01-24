@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/io-playground/issues"
   },
-  "homepage": "https://github.com/AgtLucas/io-playground"
+  "homepage": "https://github.com/AgtLucas/io-playground",
+  "dependencies": {
+    "koa": "^0.15.0"
+  }
 }
